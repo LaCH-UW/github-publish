@@ -72,6 +72,11 @@ Powiedzmy wprost: świat się na tym nie kończy.
 
 ### Na warsztaty
 
+* [Konto GitHub](https://github.com/join)
+* [Atom](https://atom.io/)
+* [pandoc](https://pandoc.org)
+* Najbardziej pożyteczny skrót klawiszowy w atomie: `Ctrl+Shift+P` (`Toggle Command Palette`)
+* Pożyteczne pluginy do atoma: `autocomplete-bibtex`, `pandoc-convert`
 * https://www.zotero.org/styles
 * https://pandoc.org/demos.html
 * `pandoc --filter=pandoc-citeproc --smart --listings --number-sections --bibliography my_bib.bib --standalone a_file.md -o a_file.md.pdf`
