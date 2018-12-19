@@ -30,6 +30,11 @@ mogą być przechowywane w kilku miejscach jednocześnie, a narzędzia wbudowane
 w Gita umożliwiają wygodne synchronizowanie danych w tych lokalizacjach.
 
 
+### Wikipedia jako przykład kontroli wersji w działaniu
+
+<https://en.wikipedia.org/wiki/List_of_treasure_hunters>
+
+
 ### GitHub
 
 Zwykle pracując z Gitem chcemy mieć lokalne repozytorium u siebie
@@ -61,6 +66,7 @@ Gita (i umila to wieloma towarzyszącymi narzędziami). Można również powiedz
 * [XML](http://www.tei-c.org/support/learn/teach-yourself-tei/)
 * [LaTeX](https://www.latex-tutorial.com/tutorials/)
 * (honorable mention) HTML
+* (honorable mention) [Wikitext](https://en.wikipedia.org/wiki/Help:Wikitext)
 
 Powiedzmy wprost: świat się na tym nie kończy.
 
