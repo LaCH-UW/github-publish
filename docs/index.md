@@ -58,6 +58,8 @@ Gita (i umila to wieloma towarzyszącymi narzędziami). Można również powiedz
 * integrowanie lokalnych zmian (`git merge`)
 * integrowanie zdalnych zmian (`git pull`)
 * gałęzie/branche (`git branch`++)
+* historia repozytorium (`git log`)
+* zmiany w poszczególnych commitach (`git diff`)
 
 ### Formaty tekstowe
 
