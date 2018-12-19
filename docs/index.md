@@ -9,8 +9,8 @@ date: 2018-12-19
 
 ### Zasoby na później (niech się ściągają, ja będę gadał)
 
-1. https://atom.io/
-2. https://pandoc.org/installing.html
+1. <https://atom.io/>
+2. <https://pandoc.org/installing.html>
 
 ### Git
 
