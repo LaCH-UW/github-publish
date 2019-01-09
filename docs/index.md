@@ -124,7 +124,9 @@ MarkDowna można znaleźć np. tutaj: <https://github.com/adam-p/markdown-here/w
 * W okienku `Commit message` wpisujemy "sensowny" opis naszych zmian (tradycja mówi, że w naszej sytuacji
 opis "First commit" nie jest taki zły...) i klikamy `Commit`
 * W dolnym pasku, po prawej stronie, powinien znaleźć się napis `Push 1` (oznaczający, że mamy jeden
-niewypushowany commit). Kliknijmy na niego.
+niewypushowany commit). Kliknijmy na niego (**Uwaga:** po wypushowaniu w tym miejscu paska jest przycisk `Fetch`;
+zgodnie z tym, co sobie mówiliśmy na zajęciach, warto raz na jakiś czas z niego korzystać jeśli mamy więcej
+niż jeden komputer lub więcej niż jedną osobę pracującą nad repozytorium).
 * Jeśli wszystko zrobiliśmy dobrze, Na stronie internetowej (GitHubowej) naszego repozytorium powinien
 pojawić się nasz plik. Kiedy na niego klikniemy, GitHub powinien wyświetlić go w wersji ładnie sformatowanej
 (przycisk `Raw` pozwala zobaczyć plik w takiej postaci, w jakiej go tworzyliśmy).
